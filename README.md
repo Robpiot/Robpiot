@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Rob Piot, a 24-year-old front-end React developer based in [Namur].
+I'm Rob Piot, a 24-year-old front-end React developer based near Namur (Belgium).
 
 ## About Me
 
