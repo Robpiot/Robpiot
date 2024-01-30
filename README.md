@@ -4,9 +4,9 @@ I'm Rob Piot, a 24-year-old front-end React developer based near Namur (Belgium)
 
 ## About Me
 
-- 🌱 I'm currently learning [Something interesting].
+- 🌱 I'm currently learning React framework, related libraries.
 - 👯 I'm looking to collaborate on open-source projects.
-- 🤔 I'm interested in [Your Interests].
+- 🤔 I'm interested in new technologies, sports and curiosities .
 - 💬 Ask me about React, front-end development, or anything tech-related.
 
 ## Skills
