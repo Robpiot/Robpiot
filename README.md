@@ -13,7 +13,7 @@ I'm Rob Piot, a 24-year-old front-end React developer based near Namur (Belgium)
 
 - HTML
 - CSS, Sass, Tailwind
-- JavaScript
+- JavaScript, typeScript
 - React
 - NextJS, ViteJS
 
