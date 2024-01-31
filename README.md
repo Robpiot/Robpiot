@@ -21,8 +21,8 @@ I'm Rob Piot, a 24-year-old front-end React developer based near Namur (Belgium)
 
 Here are some of my notable projects:
 
-- [Cogip]([link-to-project-1](https://github.com/Robpiot/COGIP-GP3))
-- [Kababi-Food]([link-to-project-2](https://github.com/Robpiot/Kababi-food))
+- [Cogip](https://github.com/Robpiot/COGIP-GP3)
+- [Kababi-Food](https://github.com/Robpiot/Kababi-food)
 - [Project-Planner](https://github.com/Robpiot/Kababi-food)
 - [Pokedex](https://github.com/Robpiot/pokedex)
 
