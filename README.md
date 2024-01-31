@@ -28,7 +28,7 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/robin-piot/))
+- [LinkedIn](https://www.linkedin.com/in/robin-piot/)
 
 ## GitHub Stats
 
